@@ -1,0 +1,12 @@
+.DS_Store
+.*.swp
+.vscode
+*.dSYM
+src/server
+src/data.txt
+*.o
+src/cache_tests/cache_tests
+src/cache_tests/cache_tests.exe
+src/cache_tests/cache_tests.log
+target/
+data.txt
